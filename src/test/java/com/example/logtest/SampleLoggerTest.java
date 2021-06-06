@@ -26,7 +26,7 @@ import static org.mockito.Mockito.verify;
 
 
 @SpringBootTest
-public class LoggerTest {
+public class SampleLoggerTest {
 
     @Autowired
     private SampleLogger sampleLogger;
